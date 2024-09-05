@@ -1,5 +1,6 @@
 ### Salve
 Atualmente focado no desenvolvimento backend em NodeJS e frontend com React com aplicação de metodologias ágeis
+
 A cada dia mais expandindo meus conhecimentos em programação
 
 Dá uma olhada nos projetos, tão bala.
