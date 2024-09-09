@@ -1,10 +1,5 @@
-### Salve
-Atualmente focado no desenvolvimento backend em NodeJS e frontend com React com aplicação de metodologias ágeis
-
-A cada dia mais expandindo meus conhecimentos em programação
-
-Dá uma olhada nos projetos, tão bala.
-
+### Salve 👋
+Atualmente, estou focado no desenvolvimento backend com Node.js e frontend com React, aplicando metodologias ágeis. A cada projeto, busco expandir meus conhecimentos, sempre em busca de soluções de qualidade. Confira meus projetos!
 <!--
 **Daniel-Lzs/Daniel-Lzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
